@@ -1,2 +1,2 @@
 # Book_management_program
-simple program for book management using Spring
+Simple program for book management using Spring
